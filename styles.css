@@ -79,7 +79,7 @@ li {
   padding: 0 12px;
 }
 
-.text--purple {
+.text--orange {
   color: #e07a5f;
 }
 
@@ -96,7 +96,7 @@ section:nth-child(even) {
 
 #about-me {
   padding-top: 50px;
-  min-height: 50vh;
+  min-height: 60vh;
   display: flex;
   flex-direction: column;
 }
@@ -356,7 +356,7 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 8% 0;
+  padding: 3% 0;
 }
 
 
