@@ -347,9 +347,9 @@ section:nth-child(even) {
 
 /* FOOTER */
 
-footer {
+/* footer {
   background-color: #242424;
-}
+} */
 
 .footer__row {
   display: flex;
@@ -361,7 +361,7 @@ footer {
 
 
 .footer__copyright {
-  color: #fff;
+  color: #242424;
 }
 
 
